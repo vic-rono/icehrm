@@ -4,8 +4,8 @@ ini_set('error_log', '/var/www/html/app/data/icehrm.log');
 define('CLIENT_NAME', 'icehrm');
 define('APP_BASE_PATH', '/var/www/html/core/');
 define('CLIENT_BASE_PATH', '/var/www/html/app/');
-define('BASE_URL','https://icehrm-bhif.onrender.com:3128/web/');
-define('CLIENT_BASE_URL','https://icehrm-bhif.onrender.com:3128/app/');
+define('BASE_URL','https://icehrm-bhif.onrender.com/web/');
+define('CLIENT_BASE_URL','https://icehrm-bhif.onrender.com/app/');
 
 define('APP_DB', 'icehrm');
 define('APP_USERNAME', 'prod');
